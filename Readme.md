@@ -40,7 +40,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐓𝐇𝐈𝐒+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-<a href="https://github.com/Davemiracle01/ASTA-MD-"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 
