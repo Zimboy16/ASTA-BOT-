@@ -37,8 +37,9 @@
 
 
   **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
+  <a href="https://github.com/Davemiracle01/ASTA-MD-/fork"><img title="Tap Here to fork this repo" src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO+TOP+LEFT+AFTER+THE+EYE)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO)](https://git.io/typing-svg)
 
 **star✨ my repo**
 
