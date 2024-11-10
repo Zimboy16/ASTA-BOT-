@@ -213,12 +213,14 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
 
 <td><a
-  href="https://wa.me/254114127157?text=Hi%20Dave"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td
+  href="https://wa.me/254114127157?text=Hi%20Dave"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
+
+<table></table>
  
 **ASTA MD WHATSAPP CHANNEL**
 
 <td><a href=
-="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img src="https://telegra.ph/file/dd9036cd4a22846c6e2a5.jpg" width="180"</td>
+="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
 
 
 
