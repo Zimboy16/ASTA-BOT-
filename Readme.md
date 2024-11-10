@@ -218,23 +218,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me 254114127157"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
     <td><a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <td>𝚢𝚘𝚞 𝚝𝚞𝚋𝚎</td>
-    <td>𝚃𝚒𝚔 𝚝𝚘𝚔</td>
-  </tr>
-  <tr>
-    <td><a href="https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2"><img src="https://telegra.ph/file/864b974e301ccac54c793.jpg" width="180"</td>
-    <td><a href="https://www.tiktok.com/@joeljamestech"><img src="https://telegra.ph/file/89750a960df185dcf5fd9.jpg" width="180"</td>
-  </tr>
-</table>
 
 
 
