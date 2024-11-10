@@ -1,7 +1,7 @@
  </h1> 
 <p align="center">ASTA MD 𝚅1
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=MY magic is never giving up ⚔️✨       )](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=✨⚔️✨⚔️✨⚔️mymagicisnevergivingup)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="403333333333" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
