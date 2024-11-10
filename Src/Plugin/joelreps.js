@@ -15,7 +15,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 ┗━━━━━
    ┃
   ┏
-  ┃https://github.com/joeljamestech/JOEL-MD
+  ┃https://github.com/Davemiracle01/ASTA-MD-
   ┃©dave
   ┗━━━━━━━━━
 ┃https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
