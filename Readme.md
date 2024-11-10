@@ -1,7 +1,7 @@
  </h1> 
 <p align="center">ASTA MD 𝚅1
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️©dave)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️✨©dave)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="403333333333" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
@@ -211,9 +211,6 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 
  **contact the developer**
-
-<table>
-  <tr>
     <td>©dave</td>
     <td> thanks again for choosing asta md ⚔️</td>
   </tr>
@@ -261,5 +258,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 <p align="center">special thanks to special Dev's 
  
 joel tech ✨https://github.com/joeljamestech/JOEL-MD
+
 and 
+
 lord no name ✨
