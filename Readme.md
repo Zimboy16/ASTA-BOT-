@@ -38,7 +38,7 @@
 
   **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO+TOP+LEFT+NO2+AFTER+THE+👁️EYE)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO+TOP+LEFT+NO2+AFTER+THE+EYE)](https://git.io/typing-svg)
 
 **star✨ my repo**
 
