@@ -33,11 +33,11 @@
 
   **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 ASTA MDV1**
 
- 
+ *ps* **Incase of any issues with forking the repository you can fork on the top left of the page btwn the eye and the star**
 
 
   **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
-*ps* Incase of any issues with forking the repository you can fork on the top left of the page btwn the eye and the star 
+ 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO)](https://git.io/typing-svg)
 <a href="https://github.com/Davemiracle01/ASTA-MD-/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
