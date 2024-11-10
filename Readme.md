@@ -31,7 +31,7 @@
 
 
 
-  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 DAVE 𝐌𝐃 𝐕 5**
+  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 ASTA MDV1**
 
  
 
@@ -61,7 +61,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐆𝐄𝐓+𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃)](https://git.io/typing-svg)
 
 
-<a href="https://joelxxxxsession.vercel.app/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://joelxxxxsession.vercel.app/"><img title="Tap Here get your Session id ✨ Site" src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
@@ -209,21 +209,8 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 
 
-**❤️Supporters I Love You❤️**
 
-
-[![Stargazers repo roster for @joeljamestech/JOEL-MD](http://reporoster.com/stars/dark/joeljamestech/JOEL-MD)](https://github.com/joeljamestech/JOEL-MD/stargazers)
-     
-[![Forkers repo roster for @joeljamestech/JOEL-MD](http://reporoster.com/forks/dark/joeljamestech/JOEL-MD)](https://github.com/joeljamestech/JOEL-MD/network/members)
-
-
-
-
-
-
-
-
- **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
+ **contact the developer**
 
 <table>
   <tr>
@@ -232,7 +219,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
   </tr>
   <tr>
     <td><a href="https://wa.link/e9lbut"><img src="https://telegra.ph/file/7cbfc792540bfb6f974f6.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img src="https://telegra.ph/file/dd9036cd4a22846c6e2a5.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/dd9036cd4a22846c6e2a5.jpg" width="180"</td>
   </tr>
 </table>
 
@@ -268,7 +255,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 
 
- *𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 Dave 𝚖𝚍 𝚋𝚘𝚝*
+ *𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 asta md wa𝚋𝚘𝚝*
 
 
 
@@ -276,7 +263,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 
 
-*𝙽𝚘𝚝𝚎* :*𝚓𝚘𝚎𝚕 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+*𝙽𝚘𝚝𝚎* :*ASTA md 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
 
 
 
