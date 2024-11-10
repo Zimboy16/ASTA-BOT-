@@ -255,6 +255,11 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
     
 <img align="right" alt="Coding" width="403333333333" src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" alt="https://joelxxxxsession.vercel.app/" /></p>
-special thanks to special Dev's joel tech ✨
+
+
+</h1> 
+<p align="center">special thanks to special Dev's 
+ 
+joel tech ✨https://github.com/joeljamestech/JOEL-MD
 and 
 lord no name ✨
