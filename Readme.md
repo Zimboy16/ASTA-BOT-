@@ -222,7 +222,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=👇👇👇👇👇👇follow-wa-channel)](https://git.io/typing-svg)
 <td><a href
-="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
+="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
 
 
 
