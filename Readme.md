@@ -218,8 +218,8 @@ You can also deploy the bot directly on your Android device using Termux. Here�
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://wa.link/e9lbut"><img src="https://telegra.ph/file/7cbfc792540bfb6f974f6.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/dd9036cd4a22846c6e2a5.jpg" width="180"</td>
+    <td><a href="https://wa.me 254114127157"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
   </tr>
 </table>
 
