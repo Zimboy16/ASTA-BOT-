@@ -214,8 +214,8 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 <table>
   <tr>
-    <td>𝚓𝚘𝚎𝚕_𝚝𝚎𝚌𝚑</td>
-    <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
+    <td>©dave</td>
+    <td> 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
     <td><a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
