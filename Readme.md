@@ -209,17 +209,16 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 
 
-
  
 **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
 
 <table>
   <tr>
-    <td>𝚓𝚘𝚎𝚕_𝚝𝚎𝚌𝚑</td>
+    <td>DAVE</td>
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/254114127157?text=Hi%20Dave"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td><td><a
+    <td><a href="https://wa.me/254114127157?text=Hi%20Dave"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"<
 
 
 
