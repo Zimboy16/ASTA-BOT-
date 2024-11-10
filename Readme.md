@@ -254,4 +254,4 @@ You can also deploy the bot directly on your Android device using Termux. Hereâ€
 
 
     
-<img align="right" alt="Coding" width="403333333333" src="https://files.catbox.moe/5a2euh.jpg" alt="https://joelxxxxsession.vercel.app/" /></p>
+<img align="right" alt="Coding" width="403333333333" src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" alt="https://joelxxxxsession.vercel.app/" /></p>
