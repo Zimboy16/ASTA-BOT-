@@ -7,11 +7,11 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (cmd === "bot") {
     const start = new Date().getTime();
-    await m.React('⚡');
+    await m.React('⚔️');
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
 
-    const text = `┏۞*Asta 𝚖𝚍 connected*
+    const text = `┏۞*Asta 𝚖𝚍 online*
 ┃thanks for choosing Asta md  ©dave
 ┗━━━━┓
 ┏━━━━┛
