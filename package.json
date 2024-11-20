@@ -1,12 +1,12 @@
 {
-  "name": "ASTA-MD",
+  "name": "ASTA-BOT",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created By Dave",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ASTA-MD",
-    "stop": "pm2 stop ASTA-MD",
-    "restart": "pm2 restart ASTA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ASTA-BOT",
+    "stop": "pm2 stop ASTA-BOT",
+    "restart": "pm2 restart ASTA-BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
