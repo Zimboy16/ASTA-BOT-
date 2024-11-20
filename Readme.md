@@ -15,11 +15,11 @@
  <p align="center">
 <a href="https://github.com/Davemiracle01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Davemiracle01?color=red&style=flat-square"></a>
 <a href="https://github.com/Davemiracle01/ASTA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Davemiracle01/ASTA-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/Davemiracle01/ASTA-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Davemiracle01/ASTA-BOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Davemiracle01/ASTA-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/Davemiracle01/ASTA-BOT?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavemiracle01%2FASTA-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Davemiracle01/ASTA-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -27,7 +27,7 @@
 <p align="center">
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/kingmalvn/MALVIN-MD' :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/Davemiracle01/ASTA-BOT :: Visitor's Count"/></p>
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-MD"><b>MALVIN-MD</b></a> 
+  <a href="https://github.com/Davemiracle01/ASTA-BOT"><b>ASTA-MD</b></a> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
 </p>
@@ -58,7 +58,7 @@
 <h2 align="left">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="left">
-<a href='https://github.com/kingmalvn/MALVIN-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://github.com/Davemiracle01/ASTA-BOT/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="left">
 <a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
@@ -87,7 +87,7 @@
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
 
 <p align="left">
-  <a href='https://github.com/kingmalvn/MALVIN-MD/blob/main/WORKFLOW.md' target="_blank">
+  <a href='https://github.com/Davemiracle01/ASTA-BOT/blob/main/WORKFLOW.md' target="_blank">
     <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
   </a>
 
