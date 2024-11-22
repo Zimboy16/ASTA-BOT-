@@ -6,21 +6,23 @@ cmd({
     pattern: "play",
     desc: "download songs",
     category: "download",
-    react: "🎵",
+    react: "🎶",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("*කරුණාකර Link එකක් හො නමක් ලබා දෙන්න 🔎...*")
+if(!q) return reply("*example play tionwayne we won*")
 const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
 let desc = `*ASTA BOT SONG DOWNLOADER*
 
-TITLE - ${data.title}
+╭─❏ TITLE - ${data.title}
+┣❐ ➤.🕺
+┗⬣ ASTA MD BOT
+© DAVE
 
-> ©dave
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
