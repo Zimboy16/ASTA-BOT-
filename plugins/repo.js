@@ -4,7 +4,7 @@ cmd({
     pattern: "repo",
     desc: "repo the bot",
     category: "main",
-    react: "📡",
+    react: "⚔️",
     filename: __filename
 },
 
@@ -16,15 +16,15 @@ let dec = `* *_ ASTA BOT REPO_*
 
 * Repo:* https://github.com/Davemiracle01/ASTA-BOT-
 
-*💃🔹 OWNER:* < 254114127157 >🪄⚡
+OWNER https://wa.me/254114127157?text=Hi%20Dave
 
 
 _Thank you for choosing ASTA BOT
 
-*🖇️Join My WhatsApp Channel✓🤍 - :* https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
+*Join My WhatsApp Channel✓ - :* https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
 
 
-> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © dave^🤍*
+> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © dave*
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
 
