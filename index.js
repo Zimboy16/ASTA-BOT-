@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Asta Bot connected to whatsapp ✅')
 
-let up = `ASTA-MD connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `ASTA-BOT connected ©dave\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/whar66.jpg` }, caption: up })
 
@@ -187,7 +187,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, Asta started✅");
+res.send("YOU HAVE SUCCESSFULLY DEPLOYED ASTA-BOT 😁");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
