@@ -4,7 +4,7 @@ cmd({
     pattern: "owner",
     desc: "owner the bot",
     category: "main",
-    react: "👨‍💻",
+    react: "⚔️",
     filename: __filename
 },
 
