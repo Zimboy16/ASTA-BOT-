@@ -65,8 +65,8 @@
 
 <p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
 https://files.catbox.moe/whar66.jpg
-use this ☝️☝️for the Alive img during deployment 
-***
+
+use this ☝️☝️for the Alive img during deployment copy before deploying ⚔️
 
 
 <h2 align="left">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
