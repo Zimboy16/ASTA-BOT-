@@ -13,7 +13,7 @@ try{
 
 let dec = `
 
-    ASTA BOT 
+╒──[ASTA BOT]
 │ ᴏᴡɴᴇʀ : dave 
 │ ɴᴜᴍʙᴇʀ: 254114127157
 │ ᴘʀᴇғɪx: .
