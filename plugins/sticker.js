@@ -13,7 +13,7 @@ else descg = 'ɪᴛ ᴄᴏɴᴠᴇʀᴛs ʏᴏᴜʀ ʀᴇᴘʟɪᴇᴅ ᴘʜᴏ�
 
 cmd({
     pattern: 'sticker',
-    react: '🤹‍♀️',
+    react: '⚔️',
     alias: ['s', 'stic'],
     desc: descg,
     category: 'convert',
