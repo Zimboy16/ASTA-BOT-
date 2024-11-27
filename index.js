@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Asta Bot connected to whatsapp ✅')
 
-let up = `ASTA-BOT connected ©dave\n\nPREFIX: ${prefix}`;
+let up = `ASTA-BOT connected⚔️\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/whar66.jpg` }, caption: up })
 
