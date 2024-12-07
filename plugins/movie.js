@@ -16,7 +16,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             return reply("📽️ Please provide the name of the movie.");
         }
 
-        const apiUrl = `http://www.omdbapi.com/?t=${encodeURIComponent(movieName)}&apikey=${config.OMDB_API_KEY}`;
+        const apiUrl = `https://rivestream.live/?t=${encodeURIComponent(movieName)}&apikey=${config.OMDB_API_KEY}`;
         const response = await axios.get(apiUrl);
 
         const data = response.data;
@@ -24,25 +24,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             return reply("🚫 Movie not found.");
         }
 
-        const movieInfo = `
-🎬 *Movie Information* 🎬
-
-🎥 *Title:* ${data.Title}
-📅 *Year:* ${data.Year}
-🌟 *Rated:* ${data.Rated}
-📆 *Released:* ${data.Released}
-⏳ *Runtime:* ${data.Runtime}
-🎭 *Genre:* ${data.Genre}
-🎬 *Director:* ${data.Director}
-✍️ *Writer:* ${data.Writer}
-🎭 *Actors:* ${data.Actors}
-📝 *Plot:* ${data.Plot}
-🌍 *Language:* ${data.Language}
-🇺🇸 *Country:* ${data.Country}
-🏆 *Awards:* ${data.Awards}
-⭐ *IMDB Rating:* ${data.imdbRating}
-🗳️ *IMDB Votes:* ${data.imdbVotes}
-`;
+        const movieInfo = `ASTA BOT MOVIE DOWNLOADER 
+        ©dave`;
 
         // Define the image URL
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
