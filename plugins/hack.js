@@ -12,8 +12,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const steps = [
             ' *INJECTING MALWARE...* ',
             '',
-            '*FIRE WALL BYPASSED 💀💀💀',
-            '*Connected to remote servers...* ',
+            '*FIRE WALL BYPASSED',
+            '*Connected to remote servers...* `breaching`',
             '',
             '```[██████████] 10%``` ⏳'                                            ,
             '```[███████████████████] 20%``` ⏳'                                   ,
